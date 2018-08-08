@@ -6,7 +6,7 @@ In dit repository deel ik één van mijn doelen: Java developer worden. Ik stel 
 Welke actie heeft de grootste impact? Wat brengt het meeste resultaat, dichter bij mijn doel? Door voortschrijdend inzicht zal ik regelmatig mijn doel bijstellen. Met version control!
 Dit repo is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
 
-![:nl:](https://cdn.countryflags.com/download/netherlands/flag-png-square-icon-16.png) Dunglish :gb: warning.
+:bike: Dunglish :gb: warning.
 
 2. Periode
 
