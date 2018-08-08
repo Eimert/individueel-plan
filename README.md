@@ -1,9 +1,5 @@
-# individueel plan Eimert Vink
+# [Individueel Plan Eimert Vink 2018-2019](https://eimert.github.io/individueel-plan/)
 
-## Open site index
-
-[readme](https://eimert.github.io/individueel-plan/)
-
-## References
+### References
 
 [Leap day is a Jekyll theme for GitHub Pages](https://github.com/pages-themes/leap-day)
