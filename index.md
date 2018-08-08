@@ -5,7 +5,7 @@ layout: default
 ![kristiansand](./images/20180804_210424.jpg)
 # Inleiding
 
-In dit repository deel ik één van mijn doelen: [**Java developer worden**](./3.5.html). Ik stel mijzelf regelmatig de vraag: "wat is het volgende niveau?", om erachter te komen hoe ik verder kan komen.
+In dit repository deel ik één van mijn doelen: [**Java developer worden**](./#doel-java-developer-worden). Ik stel mijzelf regelmatig de vraag: "wat is het volgende niveau?", om erachter te komen hoe ik verder kan komen.
 Welke actie heeft de grootste impact? Wat brengt het meeste resultaat? Wat brengt mij het snelst dichter bij mijn doel? Door voortschrijdend inzicht zal ik regelmatig mijn doel bijstellen. De wijzigingen zijn inzichtelijk door version control.
 Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
 
@@ -26,4 +26,6 @@ Dutch English (Dunglish) warning.
 <dd>Zie datum laatste commit.</dd>
 </dl>
 
-# [Doel: Java developer worden](./3.5.html)
+# Doel: Java developer worden
+
+
