@@ -26,6 +26,4 @@ Dutch English (Dunglish) warning.
 <dd>Zie datum laatste commit.</dd>
 </dl>
 
-### [Markdown reference](./index-original.html)
-
 # [Doel: Java developer worden](./3.5.html)
