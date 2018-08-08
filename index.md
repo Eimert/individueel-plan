@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![launchpad](https://eimerttech.files.wordpress.com/2018/08/ti_launchpad.png)
+![kristiansand](./images/20180804_210424.jpg)
 # 1. Inleiding
 
 In dit repository deel ik één van mijn doelen: [**Java developer worden**](./3.5.html). Ik stel mijzelf regelmatig de vraag: "what's the next level?", om erachter te komen hoe ik verder kan komen.
