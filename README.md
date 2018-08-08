@@ -11,3 +11,7 @@ Dit repo is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
 2. Periode
 
 Augustus 2018 t/m augustus 2019.
+
+3. References
+
+[Leap day is a Jekyll theme for GitHub Pages](https://github.com/pages-themes/leap-day)
