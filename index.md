@@ -4,15 +4,15 @@ layout: default
 
 
 ![launchpad](https://eimerttech.files.wordpress.com/2018/08/ti_launchpad.png)
-1. Inleiding
+# 1. Inleiding
 
-In dit repository deel ik één van mijn doelen: Java developer worden. Ik stel mijzelf regelmatig de vraag: "what's the next level?", om erachter te komen hoe ik verder kan komen.
-Welke actie heeft de grootste impact? Wat brengt het meeste resultaat, dichter bij mijn doel? Door voortschrijdend inzicht zal ik regelmatig mijn doel bijstellen. Met version control!
-Dit repo is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
+In dit repository deel ik één van mijn doelen: [**Java developer worden**](./3.5.html). Ik stel mijzelf regelmatig de vraag: "what's the next level?", om erachter te komen hoe ik verder kan komen.
+Welke actie heeft de grootste impact? Wat brengt het meeste resultaat? Wat brengt mij het snelst dichter bij mijn doel? Door voortschrijdend inzicht zal ik regelmatig mijn doel bijstellen. De wijzigingen zijn inzichtelijk door version control.
+Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
 
-:bike: Dunglish :gb: warning.
+Dutch English (Dunglish) warning.
 
-2. Periode
+# 2. Periode
 
 Augustus 2018 t/m augustus 2019.
 
