@@ -28,8 +28,9 @@ Dutch English (Dunglish) warning.
 
 # Doel: Java developer worden
 
-Roadmap:
-<iframe src="https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde?zoom=3months" scrolling="yes" height="800px" width="1200px"></iframe>
+
+### [Roadmap (click for fullscreen)](https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde?zoom=3months)
+<iframe src="https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde?zoom=3months" scrolling="yes" height="590px" width="590px"></iframe>
 
 
 [back](./)
