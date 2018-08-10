@@ -34,6 +34,9 @@ Mijn primaire doel voor 2018 is om Java developer te worden. Het doel staat op i
 ### Tijdbestek
 April 2018 tot 'december 2018'. Eigenlijk stopt het leren nooit ;-). Ik kies ervoor om de omvang van dit doel/project te beperken.
 
+### Wanneer klaar (DoD)?
+Dit doel is afgerond als ik de overstap kan maken naar een Java development functie.
+
 ### [Roadmap (open in tab)](https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde?zoom=3months)
 <iframe src="https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde?zoom=3months" scrolling="yes" height="590px" width="590px" target="_blank"></iframe>
 
@@ -67,17 +70,16 @@ In Q42018 I want to be a developer proficient in:
 *   Writing unit tests (JUnit, Mockito)
 *   Utilizing public cloud providers (Heroku)
 *   Build and deployment pipelines
-Foundational knowledge (I need to work on):
+
+Foundational knowledge (I'll need to work on):
 *   Data structures
 *   Algorithms
 *   Distributed systems
 *   Mathematics?
 *   Statistics?
 *   Logic?
-Future job: back-end developer
 
-### Wanneer klaar (DoD)?
-Dit doel is afgerond als ik de overstap kan maken naar een Java development functie. Dev Engineer met Java als primaire programmeertaal.
+Future job: back-end developer
 
 ### Time commitment?
 I'll learn in my spare time, in the weekend and sometimes in the evening. My company allowed me to spend a few working hours on learning as well.
@@ -90,13 +92,20 @@ I work in cycles, with one retrospective weekend per month. This is my four week
 
 ### How to measure progress?
 
-1. I'll do one skill-assessment every month, on sites like hackerrank and/or pluralsight. End of 2018 / beginning of 2019 I want to reach _proficient_ (101-200):
+I'll do one skill-assessment every month, on sites like pluralsight and hackerrank. Preferably both. End of 2018 / beginning of 2019 I want to reach '_proficient_' (101-200) on pluralsight (Java):
 <a href="./images/pluralsight-skill-assessment.png"><img src="./images/pluralsight-skill-assessment-590.png"></a>
 _Image: Java learning path on pluralsight._
+
+Coding tests:
+1. Pluralsight assessments
 2. OCA practise exams.
-3. Hackerrank/codility/other site coding assessment.
+3. [ Hackerrank, codility, other site ] coding assessment.
 
 ### References
+
+[Reddit - faq - learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
+[John Sonmez - Simpleprogrammer.com](https://simpleprogrammer.com/)
+
 
 [back to home](./)
 ['](./index-original.html)
