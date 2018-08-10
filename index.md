@@ -18,7 +18,9 @@ Dutch English (Dunglish) warning.
 <dt>Titel</dt>
 <dd>Invidueel Plan</dd>
 <dt>Naam</dt>
-<dd><img src="https://secure.gravatar.com/avatar/09606f155dac8bca0989a8ad7d96ecdd?s=320"><a href="eimertvink.nl" target="_blank">eimertvink.nl</a></dd>
+<dd><a href="eimertvink.nl" target="_blank">Eimert Vink</a></dd>
+<dt>Afbeelding</dt>
+<dd><img src="https://secure.gravatar.com/avatar/09606f155dac8bca0989a8ad7d96ecdd?s=320" width="50%" height="50%"></dd>
 <dt>Periode</dt>
 <dd>Augustus 2018 t/m augustus 2019</dd>
 <dt>Aanmaakdatum</dt>
