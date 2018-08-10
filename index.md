@@ -34,7 +34,7 @@ Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coac
 Mijn primaire doel voor 2018 is om Java developer te worden. Het doel staat op internet voor gemakkelijke toegang, en om dagelijks opnieuw erop te focussen. Ik zal regelmatig mijn plan aanpassen, omdat ik ondertussen ook bezig ben om een steeds beter begrip te krijgen van de (nitty-gritty) details die ik wil leren.
 
 ### Tijdbestek
-Zie '[Periode](./#Metadata)': acht maanden. Natuurlijk stopt het leren nooit ;-). Ik kies ervoor om de omvang van dit doel/project te beperken.
+Zie '[Periode](./#metadata)': acht maanden. Natuurlijk stopt het leren nooit ;-). Ik kies ervoor om de omvang van dit doel/project te beperken.
 
 ### Wanneer klaar (DoD)?
 Dit doel is afgerond als ik de overstap kan maken naar een Java development functie.
