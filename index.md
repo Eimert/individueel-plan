@@ -3,6 +3,7 @@ layout: default
 ---
 
 ![kristiansand](./images/20180804_210424.jpg)
+_Image: sunset taken from the ferry Kristiansand (N) - Hirtshals (DK)_
 # Inleiding
 
 In dit repository deel ik één van mijn doelen: [**Java developer worden**](./#doel-java-developer-worden). Ik stel mijzelf regelmatig de vraag: "wat is het volgende niveau?", om erachter te komen hoe ik verder kan komen.
@@ -17,7 +18,7 @@ Dutch English (Dunglish) warning.
 <dt>Titel</dt>
 <dd>Invidueel Plan</dd>
 <dt>Naam</dt>
-<dd>Eimert Vink</dd>
+<dd>![Eimert](https://secure.gravatar.com/avatar/09606f155dac8bca0989a8ad7d96ecdd?s=320)[Eimert Vink](eimertvink.nl)</dd>
 <dt>Periode</dt>
 <dd>Augustus 2018 t/m augustus 2019</dd>
 <dt>Aanmaakdatum</dt>
@@ -91,7 +92,7 @@ I work in cycles, with one retrospective weekend per month. This is my four week
 
 1. I'll do one skill-assessment every month, on sites like hackerrank and/or pluralsight. End of 2018 / beginning of 2019 I want to reach _proficient_ (101-200):
 <a href="./images/pluralsight-skill-assessment.png"><img src="./images/pluralsight-skill-assessment-590.png"></a>
-Image: Java learning path on pluralsight.
+_Image: Java learning path on pluralsight._
 2. OCA practise exams.
 3. Hackerrank/codility/other site coding assessment.
 
