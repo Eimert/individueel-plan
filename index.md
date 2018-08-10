@@ -29,7 +29,7 @@ Dutch English (Dunglish) warning.
 # Doel: Java developer worden
 
 Roadmap:
-<iframe src="https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde" scrolling="yes" height="800px" width="1200px"></iframe>
+<iframe src="https://app.teamweek.com/#pg/yF5TIH9mGG_qy8BR3k4SdS8XFd6oGDde?zoom=3months" scrolling="yes" height="800px" width="1200px"></iframe>
 
 
 [back](./)
