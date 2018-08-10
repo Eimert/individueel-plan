@@ -10,7 +10,7 @@ In dit repository deel ik één van mijn doelen: [**Java developer worden**](./#
 Welke actie heeft de grootste impact? Wat brengt het meeste resultaat? Wat brengt mij het snelst dichter bij mijn doel? Door voortschrijdend inzicht zal ik regelmatig mijn doel bijstellen. De wijzigingen zijn inzichtelijk door version control.
 Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
 
-:warning: Dutch - English (Dunglish) warning.
+<img class="emoji" title=":warning:" alt=":warning:" src="https://assets.github.com/images/icons/emoji/unicode/26a0.png" height="20" width="20" /> Dutch - English (Dunglish) warning.
 
 # Metadata
 
