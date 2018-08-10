@@ -16,14 +16,14 @@ Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coac
 
 <dl>
 <dt>Titel</dt>
-<dd>Invidueel Plan</dd>
+<dd>IP - Becoming a Java developer</dd>
 <dt>Naam</dt>
 <dd><a href="http://eimertvink.nl" target="_blank">Eimert Vink</a></dd>
 <dt>Afbeelding</dt>
 <dd><img src="https://secure.gravatar.com/avatar/09606f155dac8bca0989a8ad7d96ecdd?s=320" width="50%" height="50%"></dd>
 <dt>Periode</dt>
-<dd>Augustus 2018 t/m augustus 2019</dd>
-<dt>Aanmaakdatum</dt>
+<dd>April 2018 t/m december 2018</dd>
+<dt>Aanmaakdatum (op GitHub)</dt>
 <dd>08-08-2018</dd>
 <dt>Laatste wijziging</dt>
 <dd>Zie datum laatste commit op <a href="https://github.com/Eimert/individueel-plan" target="_blank">GitHub</a>.</dd>
@@ -34,7 +34,7 @@ Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coac
 Mijn primaire doel voor 2018 is om Java developer te worden. Het doel staat op internet voor gemakkelijke toegang, en om dagelijks opnieuw erop te focussen. Ik zal regelmatig mijn plan aanpassen, omdat ik ondertussen ook bezig ben om een steeds beter begrip te krijgen van de (nitty-gritty) details die ik wil leren.
 
 ### Tijdbestek
-April 2018 tot 'december 2018'. Eigenlijk stopt het leren nooit ;-). Ik kies ervoor om de omvang van dit doel/project te beperken.
+Zie 'Periode': acht maanden. Natuurlijk stopt het leren nooit ;-). Ik kies ervoor om de omvang van dit doel/project te beperken.
 
 ### Wanneer klaar (DoD)?
 Dit doel is afgerond als ik de overstap kan maken naar een Java development functie.
