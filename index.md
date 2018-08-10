@@ -18,7 +18,7 @@ Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coac
 <dt>Titel</dt>
 <dd>Invidueel Plan</dd>
 <dt>Naam</dt>
-<dd><a href="eimertvink.nl" target="_blank">Eimert Vink</a></dd>
+<dd><a href="http://eimertvink.nl" target="_blank">Eimert Vink</a></dd>
 <dt>Afbeelding</dt>
 <dd><img src="https://secure.gravatar.com/avatar/09606f155dac8bca0989a8ad7d96ecdd?s=320" width="50%" height="50%"></dd>
 <dt>Periode</dt>
