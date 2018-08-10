@@ -10,7 +10,7 @@ In dit repository deel ik één van mijn doelen: [**Java developer worden**](./#
 Welke actie heeft de grootste impact? Wat brengt het meeste resultaat? Wat brengt mij het snelst dichter bij mijn doel? Door voortschrijdend inzicht zal ik regelmatig mijn doel bijstellen. De wijzigingen zijn inzichtelijk door version control.
 Dit repository is ook bedoeld om vorderingen bij te houden, en te delen met coaches.
 
-Dutch English (Dunglish) warning.
+:warning: Dutch - English (Dunglish) warning.
 
 # Metadata
 
@@ -26,7 +26,7 @@ Dutch English (Dunglish) warning.
 <dt>Aanmaakdatum</dt>
 <dd>08-08-2018</dd>
 <dt>Laatste wijziging</dt>
-<dd>Zie datum laatste commit.</dd>
+<dd>Zie datum laatste commit op <a href="https://github.com/Eimert/individueel-plan" target="_blank">GitHub</a>.</dd>
 </dl>
 
 # Doel: Java developer worden
@@ -106,6 +106,7 @@ Coding tests:
 ### References
 
 [Reddit - faq - learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
+
 [John Sonmez - Simpleprogrammer.com](https://simpleprogrammer.com/)
 
 
