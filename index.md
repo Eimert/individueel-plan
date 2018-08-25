@@ -103,6 +103,11 @@ Coding tests:
 2. OCA practise exams.
 3. [ Hackerrank, codility, other site ] coding assessment.
 
+### Results
+
+25-08-18 Pluralsight skill assessment Java **149/300**.
+<a href="./images/2018-08-25_12:20:39-java_001.png"><img src="./images/2018-08-25_12:20:39-java_001.png" width="590"></a>
+
 ### References
 
 [Reddit - faq - learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
