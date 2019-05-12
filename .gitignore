@@ -1,1 +1,35 @@
+# Jekyll
+_site/
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
 
+# Ruby
+.bundle/
+.byebug_history
+.ruby-gemset
+.ruby-version
+*.gem
+Gemfile.lock
+
+# Files
+.analysis
+.DS_Store
+*.swp
+*~
+
+# Disallow (chunky) images in repo
+*.png
+*.jpg[e]?g
+*.svg
+
+# Folders
+/vendor
+bbin/
+bin/
+coverage
+gh-pages/
+pkg/
+test/dest
+tmp/*
+.idea/

@@ -4,4 +4,5 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-leap-day
 plugins:
+  - jekyll-include-cache
   - jemoji
